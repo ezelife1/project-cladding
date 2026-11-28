@@ -1,0 +1,2 @@
+28 November 2026 — Wakefield Trinity project update
+Checked the homepage and Projects cards, case study, eleven site photos and separately labelled design render. Checked links, image files and dimensions, metadata and sitemap. Checked Call and WhatsApp destinations, executed enquiry and floating contact scripts, and checked fixed header and overlapping logo geometry in CSS. Verified the business-specific 1200 × 630 sharing image and both social metadata references. No live deployment or messages sent.
